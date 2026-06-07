@@ -1,7 +1,5 @@
 # Python-Analysis
 
-# Python Analysis
-
 Python Analysis is a data analytics project that demonstrates the complete workflow of data processing, cleaning, exploration, and visualization using Python. The repository focuses on transforming raw datasets into meaningful insights through Exploratory Data Analysis (EDA), statistical techniques, and interactive visualizations.
 
 Key Features:
